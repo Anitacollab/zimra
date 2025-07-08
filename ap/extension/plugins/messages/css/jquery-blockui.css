@@ -1,0 +1,10 @@
+div.growlUI {
+    background: url("../images/check.png") no-repeat  10px 10px;
+}
+
+div.growlUI h1, div.growlUI h2 {
+    font-size: 14px;
+    color: white;
+    padding: 10px 10px 10px 75px;
+    text-align: left
+}
